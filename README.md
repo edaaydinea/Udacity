@@ -31,14 +31,14 @@ This repository consists of notes,capstone projecs and solutions to Udacity **pr
 
 
 <details>
-    <summary><h2 style="text-align: center;">Udacity Nanodegree Program Certificates&nbsp;</h2></summary>
+    <summary><h2 style="text-align: center;">Udacity Nanodegree Program Certificates</h2></summary>
         <p align="left">
             <a href="Nanodegree%20Program%20Certificates/Udacity%20-%20AI%20Product%20Manager.pdf">AI Product Manager Nanodegree Program Certificate</a>   
         </p>
 </details>
 
 <details>
-    <summary><h2 style="text-align: center;">Udacity Scholarship Program Certificates&nbsp;</h2></summary>
+    <summary><h2 style="text-align: center;">Udacity Scholarship Program Certificates</h2></summary>
         <p align="left">
             <a href="Scholarship%20Program%20Certificates/Udacity%20-AWS%20Machine%20Learning.pdf">AWS Machine Learning - Scholarship Program Certificate</a>
         </p>
