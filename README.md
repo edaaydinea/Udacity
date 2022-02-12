@@ -23,20 +23,23 @@ This repository consists of notes,capstone projecs and solutions to Udacity **pr
 
 <details>
 <summary>2021</summary>
-- Bertelsmann Artificial Intelligence — Introduction to Machine Learning: Supervised Learning Program
-- AWS Machine Learning Scholarship
-- Bertelsmann Technology Scholarship for Artificial Intelligence Nanodegree Program
+
+    - Bertelsmann Artificial Intelligence — Introduction to Machine Learning: Supervised Learning Program
+    - AWS Machine Learning Scholarship
+    - Bertelsmann Technology Scholarship for Artificial Intelligence Nanodegree Program
 </details>
 
 
-## Udacity Nanodegree Program Certificates
+<details>
+    <summary><h2 style="text-align: center;">Udacity Nanodegree Program Certificates&nbsp;</h2></summary>
+        <p align="left">
+            <a href="Nanodegree%20Program%20Certificates/Udacity%20-%20AI%20Product%20Manager.pdf">AI Product Manager Nanodegree Program Certificate</a>   
+        </p>
+</details>
 
-<p align="left">
-    <a href="Nanodegree%20Program%20Certificates/Udacity%20-%20AI%20Product%20Manager.pdf"> <img src="Nanodegree Program Certificates/Udacity - AI Product Manager.pdf" alt="AI Product Manager Certificate"/> </a>   
-</p>
-
-## Udacity Scholarship Program Certificates
-
-<p align="left">
-"   <a href="Scholarship%20Program%20Certificates/Udacity%20-AWS%20Machine%20Learning.pdf"> <img src="Scholarship Program Certificates/Udacity -AWS Machine Learning" alt="AWS Machine Learning Certificate"/> </a>
-</p>
+<details>
+    <summary><h2 style="text-align: center;">Udacity Scholarship Program Certificates&nbsp;</h2></summary>
+        <p align="left">
+            <a href="Scholarship%20Program%20Certificates/Udacity%20-AWS%20Machine%20Learning.pdf">AWS Machine Learning - Scholarship Program Certificate</a>
+        </p>
+</details>
