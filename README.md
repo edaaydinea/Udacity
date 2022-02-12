@@ -15,9 +15,28 @@ This repository consists of notes,capstone projecs and solutions to Udacity **pr
 [![GitHub WakaTime](https://wakatime.com/badge/github/edaaydinea/Udacity.svg)](https://wakatime.com/badge/github/edaaydinea/Udacity.svg)
 
 
-## Udacity Certificates
+## Udacity Scholarship Programs that I have attended
+
+<details>
+<summary>2022</summary>
+</details>
+
+<details>
+<summary>2021</summary>
+- Bertelsmann Artificial Intelligence — Introduction to Machine Learning: Supervised Learning Program
+- AWS Machine Learning Scholarship
+- Bertelsmann Technology Scholarship for Artificial Intelligence Nanodegree Program
+</details>
+
+
+## Udacity Nanodegree Program Certificates
 
 <p align="left">
-    <a href="Skills%20Certification/Problem%20Solving%20(Basic).png"> <img src="Badges/problem_solving_basic_skill.png" alt="Problem Solving (Basic) Certificate"/> </a>
-    <a href="Skills%20Certification/Problem%20Solving%20(Intermediate).png"> <img src="Badges/problem_solving_intermediate_skill.png" width = 86 alt="Problem Solving (Intermediate) Certificate"/> </a>
+    <a href="Nanodegree%20Program%20Certificates/Udacity%20-%20AI%20Product%20Manager.pdf"> <img src="Nanodegree Program Certificates/Udacity - AI Product Manager.pdf" alt="AI Product Manager Certificate"/> </a>   
+</p>
+
+## Udacity Scholarship Program Certificates
+
+<p align="left">
+"   <a href="Scholarship%20Program%20Certificates/Udacity%20-AWS%20Machine%20Learning.pdf"> <img src="Scholarship Program Certificates/Udacity -AWS Machine Learning" alt="AWS Machine Learning Certificate"/> </a>
 </p>
